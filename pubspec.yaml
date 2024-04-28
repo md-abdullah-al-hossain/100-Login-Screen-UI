@@ -1,0 +1,38 @@
+name: flutter_login_screen_ui
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/img/
+
+  fonts:
+    - family: Work Sans
+      fonts:
+        - asset: assets/font/WorkSans-Bold.ttf
+
+        - asset: assets/font/WorkSans-Medium.ttf
+
+        - asset: assets/font/WorkSans-Regular.ttf
+        - asset: assets/font/WorkSans-VariableFont_wght.ttf
