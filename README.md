@@ -1,4 +1,3 @@
-# Login Screen Mobile App UI Collection
 
 ## Overview
 
@@ -15,7 +14,30 @@
 ## Preview
 Here's a glimpse of some of the login screen designs included in this collection:
 
-![Group 60355](https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/c25e18f0-6eb9-4391-99f5-f67856ebeb95)
+
+## Light Mode
+
+<img width="150" alt="Login - Version 1" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/9cfd0073-f9d2-4ea6-b8ea-771be9c6afe2">
+<img width="150" alt="Login- Version 2" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/27f6c44e-2070-47c8-9425-0800299a33e4">
+<img width="150" alt="Login- Version 3" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/23a6a682-303d-42ca-b379-0d44cff316e2">
+<img width="150" alt="Login- Version 5" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/ba429605-4f5d-4580-a479-8c4d6d7506ab">
+<img width="150" alt="Login- Version 6" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/f7f8ff32-e193-4a28-862b-8fd441e6dfd7">
+<img width="150" alt="Login- Version 4" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/b47a2c62-0b82-447b-8526-9ebd13b0c7e4">
+<img width="150" alt="Login- Version 8" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/fd040145-4f99-4ecb-a62a-158fdaf5bf6e">
+<img width="150" alt="Login- Version 9" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/3e27dfb6-2d06-480e-a26d-0a15882bc02a">
+
+---
+
+## Dark Mode
+
+<img width="150" alt="Login - Version 2" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/b5e3c150-5b64-4e3e-9be9-bed1ff2c75b0">
+<img width="150" alt="Login - Version 3" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/737a2a5b-866b-4c87-8f7c-c5e15180b2d7">
+<img width="150" alt="Login - Version 4" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/a876a135-b7a7-4b80-bb74-af54bfda4392">
+<img width="150" alt="Login - Version 5" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/1df5d6d6-0992-4fcc-9e97-45696f3d9669">
+<img width="150" alt="Login - Version 6" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/7d9e7b34-98e5-43ac-b3bd-1c881e951315">
+<img width="150" alt="Login - Version 7" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/97f5eb7a-3976-4911-b9a6-3ea26b120105">
+<img width="150" alt="Login - Version 8" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/58ea830b-9612-4b27-8149-eac5db439120">
+<img width="150" alt="Login - Version 9" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/8261900e-f0aa-495a-a217-9bc1c6c5f1fa">
 
 
 ## How to Use
