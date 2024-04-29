@@ -5,8 +5,8 @@ class MyButton extends StatelessWidget {
   final double height;
   final double width;
   final Color color;
-  final String text;
-  final TextStyle style;
+  final String? text;
+  final TextStyle? style;
   final Widget? image;
   const MyButton({
     Key? key,
@@ -38,7 +38,7 @@ class MyButton extends StatelessWidget {
               ),
               child: image!,
             ),
-          Text(text, style: style),
+          Text(text ?? '', style: style),
         ],
       ),
     );
