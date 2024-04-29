@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_login_screen_ui/screens/login_screen_1/widgets/custom_textfield.dart';
 import 'package:flutter_login_screen_ui/screens/loginscreen3/widgets/custom_button.dart';
 import 'package:flutter_login_screen_ui/utils/app_color.dart';
 import 'package:flutter_login_screen_ui/widgets/my_button.dart';
@@ -112,7 +113,7 @@ class LoginScreen3 extends StatelessWidget {
           const Align(
             alignment: Alignment.centerLeft,
             child: Padding(
-              padding: EdgeInsets.only(left: 15),
+              padding: EdgeInsets.only(left: 19),
               child: Text(
                 'Email address or username',
                 style: TextStyle(
@@ -126,17 +127,7 @@ class LoginScreen3 extends StatelessWidget {
           const SizedBox(
             height: 10,
           ),
-          const MyTextfield(
-            borderRadius: 10.0,
-            height: 60,
-            width: 420,
-            style: null,
-            borderWidth: 0.8,
-            borderColor: Colors.black,
-            fillColor: Colors.white,
-            hintPadding: null,
-            hintText: null,
-          ),
+          CustomTextField(borderWidth: 1),
           const SizedBox(
             height: 10,
           ),
@@ -150,31 +141,6 @@ class LoginScreen3 extends StatelessWidget {
                   fontSize: 20,
                   fontWeight: FontWeight.normal,
                   color: Colors.black,
-                ),
-              ),
-            ),
-          ),
-          const MyTextfield(
-            borderRadius: 10.0,
-            height: 60,
-            width: 420,
-            style: null,
-            borderWidth: 0.8,
-            borderColor: Colors.black,
-            fillColor: Colors.white,
-            hintPadding: null,
-            hintText: null,
-          ),
-          const Align(
-            alignment: Alignment.centerRight,
-            child: Padding(
-              padding: EdgeInsets.only(right: 10, top: 10),
-              child: Text(
-                'Forgot your password?',
-                style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.w400,
-                  color: AppColor.primary,
                 ),
               ),
             ),

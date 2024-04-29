@@ -28,7 +28,7 @@ class CustomTextField extends StatelessWidget {
     return MyTextfield(
       borderRadius: 10.0,
       height: 60,
-      width: 380,
+      width: 410,
       hintText: hintText,
       style: TextStyle(
         color: Colors.black,
