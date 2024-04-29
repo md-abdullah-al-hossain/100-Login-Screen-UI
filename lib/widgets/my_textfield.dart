@@ -4,8 +4,8 @@ class MyTextfield extends StatelessWidget {
   final double borderRadius;
   final double height;
   final double width;
-  final String hintText;
-  final TextStyle style;
+  final String? hintText;
+  final TextStyle? style;
   final Color borderColor;
   final double? borderWidth;
   final Color? fillColor;
