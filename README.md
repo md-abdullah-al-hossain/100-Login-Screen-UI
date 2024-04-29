@@ -1,4 +1,4 @@
-
+# 100 Login Screen UI
 ## Overview
 
  This collection offers a diverse range of login screen designs, catering to various app themes and user preferences. Whether you're building a social media platform, e-commerce app, or fitness tracker, you're sure to find a login screen design that suits your needs.
@@ -11,48 +11,35 @@
 - **Modern Design:** Stay ahead of the curve with sleek and modern login screen designs that resonate with today's users.
 - **Easy Integration:** Whether you're using Swift, Kotlin, React Native, or any other mobile development framework, these designs are easy to implement.
 
-## Preview
+## Preview<img width="430" alt="Login - Version 7" 
+           
+    
+
 Here's a glimpse of some of the login screen designs included in this collection:
 
+<img width="150" alt="Login- Version 2" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/a2c5a817-b65a-430e-965d-bbd5492461d3">
+<img width="150" alt="Login - Version 1" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/7b50b4fb-75e9-4286-b01f-79c4d5066d23">
+<img width="150" alt="Login- Version 8" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/9881ec66-7119-4ace-9cfc-2b6d249eb4fa">
+<img width="150" alt="Login- Version 3" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/6c062d0a-16e4-4dc9-9cc6-0d7b13415266">
+<img width="150" alt="Login- Version 4" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/0f53fa6c-cac4-4fc7-8d85-80694eda6dd1">
+<img width="150" alt="Login- Version 5" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/f6d7b265-065d-4a08-ae10-683a8e8f5b66">
+<img width="150" alt="Login- Version 6" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/d633d1b3-0c04-4be2-b41d-71edbf3a8049">
+<img <img width="150" alt="Login- Version 9" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/eb2d6902-70b4-4602-9234-70e424c79b35">
+<img width="150" alt="Login- Version 7" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/885be88c-4d9a-4abf-aa2e-34f28d0b0fcb">
 
-## Light Mode
+# Dark Mode
 
-<img width="150" alt="Login - Version 1" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/9cfd0073-f9d2-4ea6-b8ea-771be9c6afe2">
-<img width="150" alt="Login- Version 2" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/27f6c44e-2070-47c8-9425-0800299a33e4">
-<img width="150" alt="Login- Version 3" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/23a6a682-303d-42ca-b379-0d44cff316e2">
-<img width="150" alt="Login- Version 5" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/ba429605-4f5d-4580-a479-8c4d6d7506ab">
-<img width="150" alt="Login- Version 6" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/f7f8ff32-e193-4a28-862b-8fd441e6dfd7">
-<img width="150" alt="Login- Version 4" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/b47a2c62-0b82-447b-8526-9ebd13b0c7e4">
-<img width="150" alt="Login- Version 8" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/fd040145-4f99-4ecb-a62a-158fdaf5bf6e">
-<img width="150" alt="Login- Version 9" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/3e27dfb6-2d06-480e-a26d-0a15882bc02a">
-
----
-
-## Dark Mode
-
-<img width="150" alt="Login - Version 2" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/b5e3c150-5b64-4e3e-9be9-bed1ff2c75b0">
-<img width="150" alt="Login - Version 3" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/737a2a5b-866b-4c87-8f7c-c5e15180b2d7">
-<img width="150" alt="Login - Version 4" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/a876a135-b7a7-4b80-bb74-af54bfda4392">
-<img width="150" alt="Login - Version 5" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/1df5d6d6-0992-4fcc-9e97-45696f3d9669">
-<img width="150" alt="Login - Version 6" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/7d9e7b34-98e5-43ac-b3bd-1c881e951315">
-<img width="150" alt="Login - Version 7" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/97f5eb7a-3976-4911-b9a6-3ea26b120105">
-<img width="150" alt="Login - Version 8" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/58ea830b-9612-4b27-8149-eac5db439120">
-<img width="150" alt="Login - Version 9" src="https://github.com/md-durjoy/Flutter-Login-Screen-UI/assets/161208708/8261900e-f0aa-495a-a217-9bc1c6c5f1fa">
+<img width="150" alt="Login - Version 1-1" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/0cafc5ce-355c-4e2b-b067-2e4658ecb230">
+<img width="150" alt="Login - Version 2" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/5ed9875e-5938-48ed-a12d-0b657f1de265">
+<img width="150" alt="Login - Version 3" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/7fa8b16d-4be9-4aab-9a02-e1d2ceb3c95b">
+<img width="150" alt="Login - Version 4" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/ffbd21e9-58fa-4522-a6a8-c6ebe9f311cd">
+<img width="150" alt="Login - Version 5" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/09ef54e8-b97f-4e4a-9455-f54c7edd063c">
+<img width="150" alt="Login - Version 6" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/9d20434c-3d10-47eb-8eda-7c2e2b2bbe32">
+<img width="150" alt="Login - Version 7" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/c1625bbd-0535-4f02-8eb7-7566deb65d85">
+<img width="150" alt="Login - Version 8" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/c585e73e-a1a3-427b-a4c9-8be36e2f2051">
+<img width="150" alt="Login - Version 9" src="https://github.com/md-durjoy/100-Login-Screen-UI/assets/161208708/48a7b589-26d4-49e0-9bc1-cb350753cb81">
 
 
-## How to Use
+## More Update Comming Soon...
 
-To integrate these login screen designs into your mobile app:
-
-1. Clone this repository to your local machine.
-2. Navigate to the desired login screen design directory.
-3. Follow the instructions provided in the README file of each design for customization and integration steps.
-
-## Contributing
-
-We welcome contributions from the community! If you have a unique login screen design that you'd like to share, feel free to submit a pull request.
-
-## Ui Design
-
-The Complate Ui  [[ Click Hare To See Design](https://www.figma.com/file/4j92bIKXZvmNaIGx4uIVe6/18-Login-Screen-Mobile-App-UI-(Community)?type=design&node-id=2-33&mode=design&t=QI0zplwO2kuAkEB4-0)] for their Ui and inspiration.
 
